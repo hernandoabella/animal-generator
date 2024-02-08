@@ -1,1 +1,1 @@
-# generador-de-animales
+# animal-generator
